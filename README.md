@@ -1,6 +1,6 @@
 # COVID-19 App
 
-<img src='https://media2.giphy.com/media/fVc8tO9Fiy4mpC8YfF/giphy.gif/>
+<img src='https://media2.giphy.com/media/fVc8tO9Fiy4mpC8YfF/giphy.gif'/>
 
 A COVID-19 Android tracking app for the number of cases, deaths, recovered in different countries, guidelines on how prevent and some frequently asked questions. Open source and built with Java. 
 
