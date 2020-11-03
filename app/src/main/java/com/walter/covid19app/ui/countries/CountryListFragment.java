@@ -86,6 +86,7 @@ public class CountryListFragment extends Fragment {
 
             @Override
             public boolean onQueryTextChange(String s) {
+                countryAdapter = new CountryAdapter(getActivity(), countryList);
                 countryAdapter.getFilter().filter(s);
                 return false;
             }
